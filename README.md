@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS projects<br>🌱 I’m currently learning AWS Cloud and Full Stack Development<br>💬 Ask me about Cloud, Java, SpringBoot<br>
+🔭 I’m currently working on AWS projects<br>🌱 I’m currently learning AWS Cloud and Cybersecurity<br>💬 Ask me about Cloud, Security, Virtualization, Java, SpringBoot<br>
 
 
 ## 🌐 Socials:
